@@ -3,7 +3,7 @@ import Home from "./pages/home/index"
 
 const env = import.meta.env
 
-const a = ""
+const a = "222"
 console.log(env)
 console.log(globalThis, "---")
 
